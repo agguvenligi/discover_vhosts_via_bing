@@ -6,10 +6,10 @@
 try:
   import socket
   import struct
-	import sys
-	import re
-	import urllib2
-	import tempfile
+  import sys
+  import re
+  import urllib2
+  import tempfile
 except ImportError,e:
   import sys
   sys.stdout.write("%s" %e)

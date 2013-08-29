@@ -1,4 +1,4 @@
 discover_vhosts_via_bing
 ========================
 
-Discover virtual host using bing search engine
+http://www.agguvenligi.net/2013/06/sanal-adreslemeli-web-sunucularin-bing-arama-motoru-ile-kesif-araci.html

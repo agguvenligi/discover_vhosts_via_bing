@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# By Galkan , twitter: @cigalkan
+# By Galkan 
 
 
 try:
@@ -250,10 +250,6 @@ class Bing():
 		except:
 			pass
 
-
-###			
-## By Galkan , twitter: @cigalkan
-###
 
 if __name__ == '__main__':
 

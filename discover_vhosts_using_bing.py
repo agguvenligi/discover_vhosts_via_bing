@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# By Galkan 
+
+__VERSION__ = '0.1'
+__AUTHOR__ = 'Galkan'
+__DATE__ = '22.09.2013'
 
 
 try:

@@ -3,7 +3,7 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-45020704-1']);
   _gaq.push(['_trackPageview']);
-
+ 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -13,7 +13,7 @@
 </script>
 
 discover_vhosts_via_bing
-========================
+======================== 
 
 Sızma testlerinin ilk adımı olarak hedef sisteme ait IP adres ve üzerinde koşan servislerin tespit edilmesi gelmektedir. Özellikle  uygulama güvenliği ile ilgilenen kişiler için hedef uygulamaların keşfi önemli bir yer arz etmektedir.
 Bing Microsoft tarafından hizmet vermekte olan bir arama motoru sitesidir. Bing arama motoru sitesi sayesinden belirtilen IP adresi üzerinden hizmet vermekte olan sitelere erişim sağlanabilmektedir. Bu işlem ip:ip_adresi şeklinde bir belirtim ile gerçekleştirilebilmektedir. Internet üzerinde tek bir IP adresi için gerekli bu işlemi gerçekleştiren araçlar bulunmaktadır.

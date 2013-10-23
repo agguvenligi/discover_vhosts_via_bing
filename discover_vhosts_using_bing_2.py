@@ -22,7 +22,7 @@ except ImportError,e:
   	sys.stdout.write("%s" %e)
   	sys.exit(1)
 
-
+ 
 class Bing():
 
 	def __init__(self):
